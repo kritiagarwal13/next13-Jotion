@@ -1,5 +1,4 @@
 "use client";
-
 import { redirect } from "next/navigation";
 
 import { Spinner } from "@/components/spinner";
