@@ -10,7 +10,7 @@ import { api } from "@/convex/_generated/api";
 import { Id } from "@/convex/_generated/dataModel";
 import { Spinner } from "@/components/spinner";
 import { Input } from "@/components/ui/input";
-import { ConfirmModal } from "./modals/confirm-modal";
+import { ConfirmModal } from "../../../components/modals/confirm-modal";
 import { document } from "postcss";
 
 export const TrashBox = () => {
